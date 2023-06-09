@@ -7,3 +7,5 @@
 ## [LAB REPORT](https://github.com/ChainsawPerson/Signals_and_Systems/blob/main/Lab/report.docx)
 
 ## OTHER FILES INCLUDE STANDALONE CODE FOR EACH QUESTION, [EXCEL FILE FOR FREQUENCY CALCULATIONS](https://github.com/ChainsawPerson/Signals_and_Systems/blob/main/Lab/frequencies.xlsx)
+
+### WHEN RUNNING THE SOURCE CODE *program.m* ALL FIGURES ARE NUMBERED CORRECTLY AND CORRESPOND TO THE ONES MENTIONED IN THE REPORT.
