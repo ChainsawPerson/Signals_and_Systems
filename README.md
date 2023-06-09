@@ -25,3 +25,8 @@ When executing *program.m* all figures will be numbered correctly and correspond
 -[Exercise Part 3.2 Code](https://github.com/ChainsawPerson/Signals_and_Systems/blob/main/Lab/askisi3_2.m)
 
 -[Exercise Part 4 Code](https://github.com/ChainsawPerson/Signals_and_Systems/blob/main/Lab/askisi4.m)
+
+
+
+
+#### Some Questions may be missing from the exercises!
